@@ -1,0 +1,4 @@
+php artisan db:seed --class=CategoriasTableSeeder
+php artisan db:seed --class=ProductosTableSeeder
+php artisan db:seed --class=CarritoTableSeeder
+php artisan db:seed --class=UsuariosTableSeeder
